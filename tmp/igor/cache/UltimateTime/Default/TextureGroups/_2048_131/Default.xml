@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureGroup>
+  <texture scale="1" mipsToGenerate="0" texwidth="64" texheight="64">default_0.bz2</texture>
+  <tpe x="2" y="2" tpage="default_0.bz2">TestSprite_a357a06b-67cf-416e-956f-82f491c584aa.tpe</tpe>
+</TextureGroup>

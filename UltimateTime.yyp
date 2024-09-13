@@ -1,0 +1,44 @@
+{
+  "$GMProject":"",
+  "%Name":"UltimateTime",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"UltimateTime by MayitaMayoso","folderPath":"folders/UltimateTime by MayitaMayoso.yy","name":"UltimateTime by MayitaMayoso","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"UltimateTime Using Example","folderPath":"folders/UltimateTime Using Example.yy","name":"UltimateTime Using Example","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/UltimateTime Using Example/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.8.1.171",
+  },
+  "name":"UltimateTime",
+  "resources":[
+    {"id":{"name":"Ground","path":"objects/Ground/Ground.yy",},},
+    {"id":{"name":"System","path":"objects/System/System.yy",},},
+    {"id":{"name":"TestObject","path":"objects/TestObject/TestObject.yy",},},
+    {"id":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
+    {"id":{"name":"ComponentParent","path":"scripts/ComponentParent/ComponentParent.yy",},},
+    {"id":{"name":"TestStruct","path":"scripts/TestStruct/TestStruct.yy",},},
+    {"id":{"name":"TimeManager","path":"scripts/TimeManager/TimeManager.yy",},},
+    {"id":{"name":"GroundSprite","path":"sprites/GroundSprite/GroundSprite.yy",},},
+    {"id":{"name":"TestSprite","path":"sprites/TestSprite/TestSprite.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"TestRoom","path":"rooms/TestRoom/TestRoom.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
